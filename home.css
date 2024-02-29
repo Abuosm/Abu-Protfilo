@@ -1,0 +1,144 @@
+
+nav{
+  margin: 30px;
+  height: 5px;
+  display:flex
+}
+
+nav  b{
+  align-content: center;
+
+  font-family: "Kdam Thmor Pro", sans-serif;
+  
+}
+nav .mainhead h4{
+ padding-top: 7px;
+ font-family: "Kdam Thmor Pro", sans-serif;
+ padding-left: 15px;
+ text-decoration: none;
+ 
+}
+
+nav .mainhead h4 a{
+  text-decoration: none;
+  font-family: "Kdam Thmor Pro", sans-serif;
+  color: black;
+}
+
+.mainhead{
+  padding-left: 550px;
+  display: flex;
+  text-align: end;
+}
+
+.img{
+ 
+position: relative;
+  display: flex;
+  font-family: "Kdam Thmor Pro", sans-serif;
+  
+}
+
+div p{
+  margin-left: 50px;
+  margin-top: 100px;
+  width: 310px;
+  height: 100px;
+  font-size: 25px;
+}
+.abtus{
+  margin-top: 100px;
+  height: fit-content;
+  display: flex;
+  width: fit-content;
+
+}
+
+.proj i{
+  font-size: 60px;
+  position: relative;
+  left: 550px;
+  padding-left: 20px;
+  margin-top: 80px;
+  
+}
+h2 button{
+  margin-top: 20px;
+  font-size: 50px;
+  position: relative;
+  left: 570px;
+  padding-left: 20px; 
+  font-family: "Kdam Thmor Pro", sans-serif;
+border-radius: 30px;
+color: rgb(31, 71, 106);
+background-color: rgb(176, 225, 241);
+  
+}
+
+.Projects{
+  position: relative;
+  margin-top: 50px;
+  font-family: "Kdam Thmor Pro", sans-serif;
+padding-left: 100px;
+height: 400px;
+width: 400px;
+display: flex;
+
+
+}
+#IRIS{
+  margin: 0;
+  font-size: 20px;
+
+}
+
+#card{
+  position: relative;
+  height: 600px;
+  width: 400px;
+}
+
+#card img{
+  height: 300px;
+  width: 400px;
+ 
+  
+}
+.Projects div{
+  justify-content: space-between;
+  margin-left: 50px;
+}
+
+.exp{
+  height: 200px;
+  width: 600px;
+  margin-left :300px ;
+  margin-top: 100px;
+}
+
+#in{
+ 
+  height: 200px;
+  width: 550px;
+  padding-left: 130px;
+  margin: 0;
+  
+}
+#in1{
+  height: 200px;
+  width: 550px;
+  padding-left: 130px;
+  margin: 0;
+  
+}
+
+
+
+div #slash{
+  padding: 0px;
+  margin: 0px;
+}
+
+#41 #42{
+  height: 400px;
+}
